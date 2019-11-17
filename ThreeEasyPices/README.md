@@ -3,7 +3,5 @@
 - Three Easy Pieces
 
   To Introduce  three fundamental parts of OS.
-
-  [TheAbstractionMemorySpace]: https://github.com/Drafox/OperatingSystem/blob/master/ThreeEassyPices/TheAbstractionMemorySpace.md
-
+  [note file ](./TheAbstractionMemorySpace.md )
  
