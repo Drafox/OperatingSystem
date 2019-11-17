@@ -6,9 +6,9 @@
 
 ​	OS:The Operating System allocates a particular area which is may not continuous to  a running program.
 
-​	Program: There are isolating memory space address that is begin at 0 and end at  a paticular`size` for itself.
+​	Program: There are some continuous memory space addresses that begin at 0 and end at  a paticular`size` for itself.
 
-​	We call this technique is Memory Virtualization, which  let a running program felt that it occupied the entire memory  all the time.And then , OS create an easy to use abstraction of physical memory---address space;
+​	We call this technique is Memory Virtualization, which  let a running program felt that it is only program to occupy the entire memory. And then, OS create an easy to use abstraction of physical memory---address space;
 
 #### 0x01 CONCEPT
 
@@ -60,4 +60,3 @@
     mapped: 447168K    writeable/private: 60560K    shared: 16920K
      
     ```
-

@@ -1,10 +1,6 @@
-# Operating System Learning Note
+  # Operating System Learning Note
 
-- Three Easy Pieces
+  - Three Easy Pieces
 
-  To Introduce  three fundamental parts of OS.
-
-  [TheAbstractionMemorySpace]: ./TheAbstractionMemorySpace.md
-
-  
-
+    To Introduce  three fundamental parts of OS.
+    [TheAbstractionMemorySpace](./TheAbstractionMemorySpace.md )
